@@ -1,4 +1,4 @@
-#include "Client.hpp"
+#include "Client.h"
 
 void Client::update(int type) {
     // print the changed values
