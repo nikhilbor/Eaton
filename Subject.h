@@ -2,7 +2,7 @@
 #define OBSERVER_PATTERN_SUBJECT_HPP
 
 
-#include "Observer.hpp"
+#include "Observer.h"
 
 /**
  * Interface for the Subject
