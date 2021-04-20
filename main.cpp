@@ -1,8 +1,8 @@
 #include <iostream>
-#include "WeatherData.hpp"
-#include "NaviData.hpp"
-#include "AudioData.hpp"
-#include "Client.hpp"
+#include "WeatherData.h"
+#include "NaviData.h"
+#include "Audio.h"
+#include "Client.h"
 
 void processWeather(Client &one)
 {
