@@ -5,8 +5,8 @@
 #include <algorithm>
 #include <iostream>
 
-#include "Subject.hpp"
-#include "Observer.hpp"
+#include "Subject.h"
+#include "Observer.h"
 
 /**
  * A concrete implementation of the Subject interface
