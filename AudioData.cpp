@@ -1,4 +1,4 @@
-#include "AudioData.hpp"
+#include "AudioData.h"
 
 void AudioData::registerObserver(Observer *observer) {
     observers.push_back(observer);
