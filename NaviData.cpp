@@ -1,4 +1,4 @@
-#include "NaviData.hpp"
+#include "NaviData.h"
 
 void NaviData::registerObserver(Observer *observer) {
     observers.push_back(observer);
