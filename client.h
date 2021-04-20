@@ -3,7 +3,7 @@
 
 #include <iostream>
 
-#include "Observer.hpp"
+#include "Observer.h"
 
 /**
  * a client that implements the Observer interface
